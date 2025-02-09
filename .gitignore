@@ -1,0 +1,20 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore PyCharm settings
+.idea/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore database files
+db.sqlite3
+
+# Ignore system files (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore Jupyter notebooks (optional)
+jupyter_notebooks/
