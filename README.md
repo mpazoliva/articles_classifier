@@ -1,13 +1,10 @@
 # ArticlesClassifier
 
-**ArticlesClassifier** is a Django REST Framework (DRF) API project for classifying research article abstracts into
-predefined categories using a Hugging Face NLP model.
+**ArticlesClassifier** is a Django REST Framework (DRF) API project for classifying research article abstracts into predefined categories using a Hugging Face NLP model.
 
-The API accepts an abstract, cleans and preprocesses it using spaCy, and returns the predicted category along with
-prediction probabilities.
+The API accepts an abstract, cleans and preprocesses it using spaCy, and returns the predicted category along with prediction probabilities.
 
-The default model is a BERT-based model pretrained on the arXiv dataset (see '
-jupyter_notebooks/classification_model.ipynb'), but others can be added.
+The default model is a BERT-based model pretrained on the arXiv dataset (see 'jupyter_notebooks/classification_model.ipynb'), but others can be added.
 
 The predefined categories are based on arXiv as follows:
 
