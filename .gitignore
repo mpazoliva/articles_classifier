@@ -15,6 +15,3 @@ db.sqlite3
 # Ignore system files (Mac & Windows)
 .DS_Store
 Thumbs.db
-
-# Ignore Jupyter notebooks (optional)
-jupyter_notebooks/
