@@ -1,0 +1,176 @@
+category,title,abstract
+phys,"Fabrication of Analog Electronics for Serial Readout of Silicon Strip
+  Sensors","A set of analog electronics boards for serial readout of silicon strip
+sensors was fabricated. A commercially available amplifier is mounted on a
+homemade hybrid board in order to receive analog signals from silicon strip
+sensors. Also, another homemade circuit board is fabricated in order to
+translate amplifier control signals into a suitable format and to provide bias
+voltage to the amplifier as well as to the silicon sensors. We discuss
+technical details of the fabrication process and performance of the circuit
+boards we developed."
+phys,Modal Extraction in Spatially Extended Systems,"We describe a practical procedure for extracting the spatial structure and
+the growth rates of slow eigenmodes of a spatially extended system, using a
+unique experimental capability both to impose and to perturb desired initial
+states. The procedure is used to construct experimentally the spectrum of
+linear modes near the secondary instability boundary in Rayleigh-B\'{e}nard
+convection. This technique suggests an approach to experimental
+characterization of more complex dynamical states such as periodic orbits or
+spatiotemporal chaos."
+math,"On second order shape optimization methods for electrical impedance
+  tomography","This paper is devoted to the analysis of a second order method for recovering
+the \emph{a priori} unknown shape of an inclusion $\omega$ inside a body
+$\Omega$ from boundary measurement. This inverse problem - known as electrical
+impedance tomography - has many important practical applications and hence has
+focussed much attention during the last years. However, to our best knowledge,
+no work has yet considered a second order approach for this problem. This paper
+aims to fill that void: we investigate the existence of second order derivative
+of the state $u$ with respect to perturbations of the shape of the interface
+$\partial\omega$, then we choose a cost function in order to recover the
+geometry of $\partial \omega$ and derive the expression of the derivatives
+needed to implement the corresponding Newton method. We then investigate the
+stability of the process and explain why this inverse problem is severely
+ill-posed by proving the compactness of the Hessian at the global minimizer."
+math,Iterated integral and the loop product,"In this article we discuss a relation between the string topology and
+differential forms based on the theory of Chen's iterated integrals and the
+cyclic bar complex."
+cs,On-line Viterbi Algorithm and Its Relationship to Random Walks,"In this paper, we introduce the on-line Viterbi algorithm for decoding hidden
+Markov models (HMMs) in much smaller than linear space. Our analysis on
+two-state HMMs suggests that the expected maximum memory used to decode
+sequence of length $n$ with $m$-state HMM can be as low as $\Theta(m\log n)$,
+without a significant slow-down compared to the classical Viterbi algorithm.
+Classical Viterbi algorithm requires $O(mn)$ space, which is impractical for
+analysis of long DNA sequences (such as complete human genome chromosomes) and
+for continuous data streams. We also experimentally demonstrate the performance
+of the on-line Viterbi algorithm on a simple HMM for gene finding on both
+simulated and real DNA sequences."
+cs,Opportunistic Relay Selection with Limited Feedback,"It has been shown that a decentralized relay selection protocol based on
+opportunistic feedback from the relays yields good throughput performance in
+dense wireless networks. This selection strategy supports a hybrid-ARQ
+transmission approach where relays forward parity information to the
+destination in the event of a decoding error. Such an approach, however,
+suffers a loss compared to centralized strategies that select relays with the
+best channel gain to the destination. This paper closes the performance gap by
+adding another level of channel feedback to the decentralized relay selection
+problem. It is demonstrated that only one additional bit of feedback is
+necessary for good throughput performance. The performance impact of varying
+key parameters such as the number of relays and the channel feedback threshold
+is discussed. An accompanying bit error rate analysis demonstrates the
+importance of relay selection."
+q-bio,"Modeling the effects of HIV-1 virions and proteins on Fas-induced
+  apoptosis of infected cells","We report a first in modeling and simulation of the effects of the HIV
+proteins on the (caspase dependent) apoptotic pathway in infected cells. This
+work is novel and is an extension on the recent reports and clarifications on
+the FAS apoptotic pathway from the literature. We have gathered most of the
+reaction rates and initial conditions from the literature, the rest of the
+constants have been computed by fitting our model to the experimental results
+reported. Using the model obtained we have then run the simulations for the
+infected memory T cells, called also latent T cells, which, at the moment,
+represent the major obstacle to finding a cure for HIV. We can now report that
+the infected latent T cells have an estimated lifetime of about 42 hours from
+the moment they are re-activated. As far as we know this is the first result of
+this type obtained for the infected memory T cells."
+q-bio,Stability of the splay state in pulse--coupled networks,"The stability of the dynamical states characterized by a uniform firing rate
+({\it splay states}) is analyzed in a network of globally coupled leaky
+integrate-and-fire neurons. This is done by reducing the set of differential
+equations to a map that is investigated in the limit of large network size. We
+show that the stability of the splay state depends crucially on the ratio
+between the pulse--width and the inter-spike interval. More precisely, the
+spectrum of Floquet exponents turns out to consist of three components: (i) one
+that coincides with the predictions of the mean-field analysis [Abbott-van
+Vreesvijk, 1993]; (ii) a component measuring the instability of
+""finite-frequency"" modes; (iii) a number of ""isolated"" eigenvalues that are
+connected to the characteristics of the single pulse and may give rise to
+strong instabilities (the Floquet exponent being proportional to the network
+size). Finally, as a side result, we find that the splay state can be stable
+even for inhibitory coupling."
+q-fin,"Capital Allocation to Business Units and Sub-Portfolios: the Euler
+  Principle","Despite the fact that the Euler allocation principle has been adopted by many
+financial institutions for their internal capital allocation process, a
+comprehensive description of Euler allocation seems still to be missing. We try
+to fill this gap by presenting the theoretical background as well as practical
+aspects. In particular, we discuss how Euler risk contributions can be
+estimated for some important risk measures. We furthermore investigate the
+analysis of CDO tranche expected losses by means of Euler's theorem and suggest
+an approach to measure the impact of risk factors on non-linear portfolios."
+q-fin,"The public goods game on homogeneous and heterogeneous networks:
+  investment strategy according to the pool size","We propose an extended public goods interaction model to study the evolution
+of cooperation in heterogeneous population. The investors are arranged on the
+well known scale-free type network, the Barab\'{a}si-Albert model. Each
+investor is supposed to preferentially distribute capital to pools in its
+portfolio based on the knowledge of pool sizes. The extent that investors
+prefer larger pools is determined by investment strategy denoted by a tunable
+parameter $\alpha$, with larger $\alpha$ corresponding to more preference to
+larger pools. As comparison, we also study this interaction model on square
+lattice, and find that the heterogeneity contacts favors cooperation.
+Additionally, the influence of local topology to the game dynamics under
+different $\alpha$ strategies are discussed. It is found that the system with
+smaller $\alpha$ strategy can perform comparatively better than the larger
+$\alpha$ ones."
+stat,"Transient Dynamics of Sparsely Connected Hopfield Neural Networks with
+  Arbitrary Degree Distributions","Using probabilistic approach, the transient dynamics of sparsely connected
+Hopfield neural networks is studied for arbitrary degree distributions. A
+recursive scheme is developed to determine the time evolution of overlap
+parameters. As illustrative examples, the explicit calculations of dynamics for
+networks with binomial, power-law, and uniform degree distribution are
+performed. The results are good agreement with the extensive numerical
+simulations. It indicates that with the same average degree, there is a gradual
+improvement of network performance with increasing sharpness of its degree
+distribution, and the most efficient degree distribution for global storage of
+patterns is the delta function."
+stat,A Dynamic Algorithm for Blind Separation of Convolutive Sound Mixtures,"We study an efficient dynamic blind source separation algorithm of
+convolutive sound mixtures based on updating statistical information in the
+frequency domain, andminimizing the support of time domain demixing filters by
+a weighted least square method. The permutation and scaling indeterminacies of
+separation, and concatenations of signals in adjacent time frames are resolved
+with optimization of $l^1 \times l^\infty$ norm on cross-correlation
+coefficients at multiple time lags. The algorithm is a direct method without
+iterations, and is adaptive to the environment. Computations on recorded and
+synthetic mixtures of speech and music signals show excellent performance."
+eess,Recognizing Multi-talker Speech with Permutation Invariant Training,"In this paper, we propose a novel technique for direct recognition of
+multiple speech streams given the single channel of mixed speech, without first
+separating them. Our technique is based on permutation invariant training (PIT)
+for automatic speech recognition (ASR). In PIT-ASR, we compute the average
+cross entropy (CE) over all frames in the whole utterance for each possible
+output-target assignment, pick the one with the minimum CE, and optimize for
+that assignment. PIT-ASR forces all the frames of the same speaker to be
+aligned with the same output layer. This strategy elegantly solves the label
+permutation problem and speaker tracing problem in one shot. Our experiments on
+artificially mixed AMI data showed that the proposed approach is very
+promising."
+eess,"CBinfer: Change-Based Inference for Convolutional Neural Networks on
+  Video Data","Extracting per-frame features using convolutional neural networks for
+real-time processing of video data is currently mainly performed on powerful
+GPU-accelerated workstations and compute clusters. However, there are many
+applications such as smart surveillance cameras that require or would benefit
+from on-site processing. To this end, we propose and evaluate a novel algorithm
+for change-based evaluation of CNNs for video data recorded with a static
+camera setting, exploiting the spatio-temporal sparsity of pixel changes. We
+achieve an average speed-up of 8.6x over a cuDNN baseline on a realistic
+benchmark with a negligible accuracy loss of less than 0.1% and no retraining
+of the network. The resulting energy efficiency is 10x higher than that of
+per-frame evaluation and reaches an equivalent of 328 GOp/s/W on the Tegra X1
+platform."
+econ,Frequentist properties of Bayesian inequality tests,"Bayesian and frequentist criteria fundamentally differ, but often posterior
+and sampling distributions agree asymptotically (e.g., Gaussian with same
+covariance). For the corresponding single-draw experiment, we characterize the
+frequentist size of a certain Bayesian hypothesis test of (possibly nonlinear)
+inequalities. If the null hypothesis is that the (possibly
+infinite-dimensional) parameter lies in a certain half-space, then the Bayesian
+test's size is $\alpha$; if the null hypothesis is a subset of a half-space,
+then size is above $\alpha$; and in other cases, size may be above, below, or
+equal to $\alpha$. Rejection probabilities at certain points in the parameter
+space are also characterized. Two examples illustrate our results: translog
+cost function curvature and ordinal distribution relationships."
+econ,The State of Applied Econometrics - Causality and Policy Evaluation,"In this paper we discuss recent developments in econometrics that we view as
+important for empirical researchers working on policy evaluation questions. We
+focus on three main areas, where in each case we highlight recommendations for
+applied work. First, we discuss new research on identification strategies in
+program evaluation, with particular focus on synthetic control methods,
+regression discontinuity, external validity, and the causal interpretation of
+regression methods. Second, we discuss various forms of supplementary analyses
+to make the identification strategies more credible. These include placebo
+analyses as well as sensitivity and robustness analyses. Third, we discuss
+recent advances in machine learning methods for causal effects. These advances
+include methods to adjust for differences between treated and control units in
+high-dimensional settings, and methods for identifying and estimating
+heterogeneous treatment effects."
